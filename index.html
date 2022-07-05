@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <title>reveal.js</title>
+
+  <link rel="stylesheet" href="libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="libs/revealjs/dist/reveal.css">
+  <link rel="stylesheet" href="libs/revealjs/dist/theme/black.css">
+
+  <!-- Theme used for syntax highlighted code -->
+  <link rel="stylesheet" href="libs/revealjs/plugin/highlight/vs2015.css">
+</head>
+
+<body>
+  <div class="reveal">
+    <div class="slides">
+      <section>
+        <h1>Training</h1>
+        <small>Created by <b>James Barrow</b></small>
+      </section>
+      <section>Slide 2</section>
+      <section data-markdown>
+        <textarea data-template>
+            ## Slide 3
+            Some paragraph
+            ---
+            ## Slide 4
+        </textarea>
+      </section>
+      <section>
+        <pre><code data-trim data-line-numbers="1,2-6,13|1,8-10,13" data-ln-start-from="5" class="html">
+          <table>
+            <tr>
+              <td>Apples</td>
+              <td>$1</td>
+              <td>7</td>
+            </tr>
+            <tr>
+              <td>Oranges</td>
+              <td>$2</td>
+              <td>18</td>
+            </tr>
+          </table>
+        </code></pre>
+      </section>
+      <section>
+        <pre><code data-trim class="typescript">
+          class MyClass {
+            public static myValue: string;
+            constructor(init: string) {
+              this.myValue = init;
+            }
+          }
+          import fs = require("fs");
+          module MyModule {
+            export interface MyInterface extends Other {
+              myProperty: any;
+            }
+          }
+          declare magicNumber number;
+          myArray.forEach(() => { }); // fat arrow syntax
+        </code></pre>
+      </section>
+    </div>
+  </div>
+
+  <script src="libs/revealjs/dist/reveal.js"></script>
+  <script src="libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="libs/revealjs/plugin/markdown/markdown.js"></script>
+  <script src="libs/revealjs/plugin/highlight/highlight.js"></script>
+  <script>
+    // More info about initialization & config:
+    // - https://revealjs.com/initialization/
+    // - https://revealjs.com/config/
+    Reveal.initialize({
+      hash: true,
+
+      // Learn about plugins: https://revealjs.com/plugins/
+      plugins: [
+        RevealMarkdown, // Write content using Markdown
+        RevealHighlight, // Syntax highlighted code
+        //RevealNotes, // Show a speaker view in a separate window
+        //RevealSearch, // Press CTRL+SHIFT+F to search slide content
+        //RevealMath, // Render math equations
+        //RevealZoom, // ALT+CLICK to zoom in on elements (CTRL+CLICK in Linux)
+      ]
+    });
+  </script>
+</body>
+
+</html>

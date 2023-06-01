@@ -17,5 +17,5 @@ them. If you have any ideas or suggestions, please feel free to let me know them
 
 - [Rust](./Courses/Rust/README.md)
     - I want to learn Rust myself, it has been a goal for a while, and I did start a while ago, but forgot a lot if not
-      all of it because I don't use it everyday. They say the best way to learn is to teach, so lets see if I can do
-      at least one of these :P
+      all of it because I don't use it everyday. They say the best way to learn is to teach, so if I can achieve at
+      least one of those goals, I would be happy 😄

@@ -1,6 +1,6 @@
 # Introduction to JavaScript
 
-Before showing how JavaScript _works_, it is valuable to first explain explain what JavaScript _is_ and the history
+Before showing how JavaScript _works_, it is valuable to first explain what JavaScript _is_ and the history
 behind the language. This is both interesting, but at times also explains why things are the way they are, and perhaps
 can guide the reader when looking forward into what will be coming to the JavaScript ecosystem in the future.
 

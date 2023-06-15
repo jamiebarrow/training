@@ -26,7 +26,9 @@ Again, note that below is a work in progress and will be updated over time.
 ## References
 
 - [Angular][1]
-- [AngularJS][2]
+- [Angular CLI][2]
+- [AngularJS][3]
 
 [1]: https://angular.io/
-[2]: https://angularjs.org/
+[2]: https://angular.io/cli
+[3]: https://angularjs.org/

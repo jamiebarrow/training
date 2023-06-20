@@ -45,12 +45,19 @@ jQuery UI, which also provided the ability to theme the user interface.
 These were really main influences in web development, and more well known projects such as Twitter Bootstrap would have
 been heavily inspired I believe by the learnings of the times of jQuery and jQuery UI development.
 
+Today a lot of features are provided by native browser features, so [You May Not Need jQuery][5], but it is still a
+valuable tool for simple applications.
+
 ## References
 
 - [jQuery][1]
 - [jQuery UI][2]
 - [jQuery Github][3]
+- [You Might Not Need jQuery][4]
+- [You Might Not Need jQuery, Github][5]
 
 [1]: https://jquery.com/
 [2]: https://jqueryui.com/
 [3]: https://github.com/jquery/jquery
+[4]: https://github.com/HubSpot/youmightnotneedjquery
+[5]: https://youmightnotneedjquery.com/

@@ -12,6 +12,7 @@ Below is a brief outline, which may be updated over time.
 Again, note that below is a work in progress and will be updated over time.
 
 - Introduction to Rust
+- Installation
 - Rust Programming Language
 - Patterns
 - Libraries

@@ -27,6 +27,7 @@ Again, note that below is a work in progress and will be updated over time.
     - [Rust By Example][4]
     - [rustlings course][5]
 - [Let's Get Rusty - YouTube][6]
+- [Areweyet][7]
 
 [1]: https://www.rust-lang.org/
 [2]: https://www.rust-lang.org/learn
@@ -34,3 +35,4 @@ Again, note that below is a work in progress and will be updated over time.
 [4]: https://doc.rust-lang.org/rust-by-example/
 [5]: https://github.com/rust-lang/rustlings/
 [6]: https://www.youtube.com/@letsgetrusty
+[7]: https://wiki.mozilla.org/Areweyet
